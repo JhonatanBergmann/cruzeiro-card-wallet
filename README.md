@@ -89,5 +89,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 <p align="center">
- Feito com 💜
+ Feito com 💜 WANDER MACIEL BARRETO, WILLIAM HENRIQUE LAURIANO, SAMUEL RODRIGUES ÁVILA, JHONATAN BERGMANN DIAS
+
 </p>
